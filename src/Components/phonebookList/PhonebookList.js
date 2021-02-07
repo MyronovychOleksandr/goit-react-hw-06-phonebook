@@ -1,6 +1,5 @@
 import React from "react";
 import { CSSTransition, TransitionGroup } from "react-transition-group";
-import PropTypes from "prop-types";
 import { connect } from "react-redux";
 import PhonebookListItem from "./phonebookListItem/PhonebookListItem";
 import s from "./PhonebookList.module.css";
